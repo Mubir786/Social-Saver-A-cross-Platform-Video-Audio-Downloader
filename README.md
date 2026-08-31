@@ -197,6 +197,7 @@ The project was developed using a collaborative workflow:
 - Project documentation
 
 ### Alee Noor
+- FastApi Backend Development
 - Project collaboration
 - Development contribution
 - Testing and improvements
